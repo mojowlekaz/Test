@@ -1,5 +1,3 @@
-# Sample Hardhat Project
-
 # Blockchain Developer Technical Test - Staking Contract
 
 This project is a solution for the Solidity task in the Blockchain Developer Technical Test. The goal is to create a secure and efficient staking smart contract on Ethereum that meets the provided requirements.
